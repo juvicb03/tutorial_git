@@ -37,6 +37,13 @@ const hotelData = [
     rate: 5,
   },
   {
+    local: "Fortaleza",
+    name: "Hotel Villa Reali",
+    src: "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    pricing: 250.0,
+    rate: 3.6,
+  },
+  {
     local: "Lençois Maranhenses",
     name: "Hotel Noite Feliz",
     src: "./assets/pexels-thorsten-technoman-338504.jpg",
